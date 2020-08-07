@@ -1,0 +1,80 @@
+/* Distination Page */
+@media screen and (max-width:399px){
+        
+         /* Destinationed Page*/
+         .menuhead{
+             display:flex;
+             padding:0em;
+         } 
+          .openbutton{
+              margin-left: 10pc;
+          }
+         #logo{
+              position: relative;
+              right: 30%;    
+          }
+          .getintouch{
+            position: relative;
+            right:45%;
+            overflow: visible;
+            
+          }
+           /* menu */
+          .titletext{
+              position: fixed;
+              margin-top: 8pc;
+          }
+          .boatcontent{
+              position: relative;
+              margin-top: 90pc;
+              max-width:300px;    
+          }
+          .boatcontent h2{
+            font-size:16px;  
+          }
+          .calendar{
+              margin-top:32pc;
+          }
+          #cal{
+             position: relative;
+             right:30%;   
+             text-align: center;
+          }
+          .welcomecontent{
+              position: relative;
+              margin-top: 115pc;
+              max-width:350px;
+              right:1pc;
+          }
+          /* SingleTourPage */
+         .horseimg{
+             max-width:100%;       
+         }
+         .horsecontent{
+             position: absolute;
+             margin-top:18pc;
+             right:10%;     
+         }
+         #htag{
+            margin-top:23pc; 
+         }
+         .map{
+             position: relative;
+             max-width:320px;
+             margin-top:30pc;
+             right:2pc;
+         }
+         .pics{
+             max-width:95%;
+             margin-top:20pc;
+         }
+         .buttonbook{
+             margin-top:70pc;
+         }
+         .footer{
+            max-width:100%;
+            margin-top: 10pc;
+         }
+        /* Single Tour Page */
+        }
+
